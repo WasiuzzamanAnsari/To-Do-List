@@ -23,10 +23,8 @@ Follow these steps to set up and run the application on your local machine:
 
 First, clone the repository to your local machine:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/WasiuzzamanAnsari/To-Do-List.git
 
-Replace your-username and your-repo-name with your actual GitHub username and repository name.
 
 ##  Install Dependencies
 Navigate to the project directory and install the required dependencies:
